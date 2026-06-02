@@ -27,7 +27,7 @@ import java.net.http.HttpResponse;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class JavaPrograms {
+ class JavaProgramsModule {
     private static final Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) throws Exception {
